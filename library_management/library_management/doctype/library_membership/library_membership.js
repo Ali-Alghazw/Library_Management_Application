@@ -11,5 +11,5 @@ frappe.ui.form.on("Library Membership", {
 		if (frm.doc.member) {
 			frappe.msgprint(`Selected member: ${frm.doc.full_name}`);
 		}
-	},
+	},	
 });
