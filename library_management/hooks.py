@@ -5,10 +5,10 @@ app_description = "Library Managemnt System"
 app_email = "ali@example.com"
 app_license = "mit"
 doctype_js = {
-    "Library Member": "library_management/doctype/library_member/library_member.js"
+    "Article": "public/js/article.js",
+    "Library Member": "public/js/library_member.js",
+    "Library Membership": "public/js/library_membership.js"
 }
-
-
 # Apps
 # ------------------
 
